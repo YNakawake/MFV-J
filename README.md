@@ -9,7 +9,6 @@ If you just wante to get the item list of MFV-J, access here:  https://github.co
         + `MFQdata.csv/`:
         + `MFTV-J_analysis_code.html`: analysis code in html format (R)
         + `MFTV-J_analysis_code.ipynb`: analysis code in ipynb format (R)
-        + `MFTV-J_analysis_code.pdf: analysis code in pdf format (R)
     + `MFV-J_materials/`: The list of questions used in MFV-J
         + `item_list/`:
             + `MFV-J_list.xlsx`: item list in xlsx format (including the original items and back-translated items (if you own Excel, it is recommended to download this)
