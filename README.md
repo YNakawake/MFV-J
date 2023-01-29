@@ -2,7 +2,7 @@
 ## The contents of this repository are as follows
 
 all R files are in ipynb format (jupyter notebook)　<br>
-If you just wante to get the item list of MFV-J, access here:  https://github.com/YNakawake/MFV-J/blob/main/MFV-J/item_list/MFV-J_list(UTF8_CRFL).csv
+If you just wante to get the item list of MFV-J, access here: https://github.com/YNakawake/MFV-J/blob/main/MFV-J_materials/item_list/MFV-J_list(UTF8_CRFL).csv
 
 + `./`
     + `data_analysis/`:statistical analysis and data visualization codes, the datasets is also included
